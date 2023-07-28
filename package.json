@@ -1,0 +1,29 @@
+{
+    "name": "nuxt-app",
+    "private": true,
+    "scripts": {
+        "reset": "npm cache clean --force && rm -rf ./node_modules && rm package-lock.json",
+        "update": "npx npm-check-updates -u && npm install",
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "devDependencies": {
+        "@nuxt/devtools": "latest",
+        "@nuxtjs/i18n": "^8.0.0-beta.13",
+        "@types/node": "^20",
+        "@unocss/nuxt": "^0.53.6",
+        "@vueuse/nuxt": "^10.2.1",
+        "nuxt": "^3.6.5"
+    },
+    "dependencies": {
+        "@iconify-json/carbon": "^1.1.18",
+        "@iconify-json/mdi": "^1.1.53",
+        "@unocss/reset": "^0.53.6",
+        "@unocss/transformer-directives": "^0.53.6",
+        "@vueuse/components": "^10.2.1",
+        "@vueuse/core": "^10.2.1"
+    }
+}
