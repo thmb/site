@@ -16,7 +16,7 @@
                 <p class="leading-relaxed mb-5 text-slate-600">
                     {{ $t("component.contact.subtitle") }}
                 </p>
-                <nav class="list-none">
+                <ul class="list-none">
                     <li class="mb-2">
                         <a href="mailto:info@thau.tech">
                             <i class="i-mdi-email-outline"></i><span>info@thau.tech</span>
@@ -32,8 +32,7 @@
                             <i class="i-mdi-home-city-outline"></i><span>Barcelona, Spain</span>
                         </a>
                     </li>
-                </nav>
-                <!-- </div> -->
+                </ul>
 
             </div>
         </div>

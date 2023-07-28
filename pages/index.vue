@@ -1,8 +1,10 @@
 <template>
-    <Hero />
-    <Purpose />
-    <Workflow />
-    <Contact />
+    <Profile />
+    <Skills />
+    <Experience />
+    <Education />
+    <Posts />
+    <Social />
 </template>
 
 <!-- <script>
