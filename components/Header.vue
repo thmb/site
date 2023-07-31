@@ -2,10 +2,11 @@
     <nav class="fixed w-full top-0 left-0 z-20 bg-thau">
         <div class="container flex flex-wrap items-center justify-between mx-auto px-4 py-6 lg:py-5">
 
-            <div class="flex items-center text-slate-300 text-xl md:text-2xl lg:text-3xl xl:text-4xl hover:text-slate-100">
-                <div @click="toggle" class="flex lg:hidden mr-4">
-                    <button type="button"><i class="i-carbon-menu"></i></button>
-                </div>
+            <div
+                class="flex items-center text-slate-300 text-2xl lg:text-4xl lg:tracking-tight xl:tracking-normal hover:text-slate-100">
+                <button type="button" @click="toggle">
+                    <i class="i-carbon-menu inline-block flex lg:hidden mr-4"></i>
+                </button>
                 <nuxt-link :to="localePath('/')">
                     THIAGO MADUREIRA BRAGA
                 </nuxt-link>
@@ -42,11 +43,7 @@
 
 <style scoped>
 button {
-    --at-apply: text-slate-300 hover:text-slate-100 focus:text-slate-100 focus:outline-none
-}
-
-button>i {
-    --at-apply: align-middle inline-block
+    --at-apply: align-middle text-slate-300 hover:text-slate-100 focus:text-slate-100 focus:outline-none
 }
 
 ul {
