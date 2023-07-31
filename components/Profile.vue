@@ -1,6 +1,5 @@
 <template>
-    <section class="container items-center grid grid-cols-1 xl:grid-cols-2 gap-10 mx-auto px-4 pt-30 pb-10">
-
+    <section class="container items-center grid grid-cols-1 xl:grid-cols-2 gap-4 mx-auto px-4 pt-24 pb-4">
         <div class="card">
             <img class="picture" src="/images/thiago-2018.jpg" alt="Thiago Madureira Braga">
             <div class="content">

@@ -1,6 +1,6 @@
 <template>
     <nav class="fixed w-full top-0 left-0 z-20 bg-thau">
-        <div class="container flex flex-wrap items-center justify-between mx-auto px-4 py-6">
+        <div class="container flex flex-wrap items-center justify-between mx-auto px-4 py-6 lg:py-5">
 
             <div class="flex items-center text-slate-300 text-xl md:text-2xl lg:text-3xl xl:text-4xl hover:text-slate-100">
                 <div @click="toggle" class="flex lg:hidden mr-4">
