@@ -3,7 +3,7 @@
         <div class="container flex flex-wrap items-center justify-between mx-auto px-4 py-6 lg:py-5">
 
             <div
-                class="flex items-center text-2xl lg:text-4xl tracking-tighter sm:tracking-normal lg:tracking-tight xl:tracking-normal text-slate-300 hover:text-slate-100">
+                class="flex items-center text-xl sm:text-2xl lg:text-4xl lg:tracking-tight xl:tracking-normal text-slate-300 hover:text-slate-100">
                 <button type="button" @click="toggle">
                     <i class="i-carbon-menu inline-block flex lg:hidden mr-2"></i>
                 </button>
