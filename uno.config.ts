@@ -10,6 +10,7 @@ import transformerDirectives from "@unocss/transformer-directives";
 
 export default defineConfig({
     shortcuts: {
+        card: "bg-white border border-slate-200 rounded-lg shadow hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-800 dark:hover:bg-slate-700",
         cta: "inline-flex text-lg rounded border-0 bg-thau text-white hover:bg-green-700 px-8 py-4",
         gradient:
             "bg-clip-text text-transparent bg-gradient-to-r from-thau to-blue-500",

@@ -1,51 +1,58 @@
 <template>
-    <section class="text-slate-600 body-font relative">
-        <div class="absolute inset-0 bg-slate-300">
-            <iframe style="filter: grayscale(1) contrast(1.2) opacity(0.4);" marginheight="0" marginwidth="0" title="map"
-                scrolling="no"
-                src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=barcelona+(THAU)&ie=UTF8&t=&z=10&iwloc=B&output=embed"
-                width="100%" height="100%" frameborder="0"></iframe>
-        </div>
+    <section class="container px-4 pb-4 mx-auto">
+        <div class="card grid grid-cols-1 xl:grid-cols-4 gap-4 p-4">
 
-        <div class="container px-4 py-24 mx-auto flex">
-            <div
-                class="lg:w-1/3 md:w-1/2 w-full bg-white rounded p-8 flex flex-col md:ml-auto mt-10 md:mt-0 relative z-10 shadow-md">
-                <h2 class="text-slate-900 text-lg mb-1 font-medium title-font">
-                    {{ $t("component.contact.title") }}
-                </h2>
-                <p class="leading-relaxed mb-5 text-slate-600">
-                    {{ $t("component.contact.subtitle") }}
-                </p>
-                <ul class="list-none">
-                    <li class="mb-2">
-                        <a href="mailto:info@thau.tech">
-                            <i class="i-mdi-email-outline"></i><span>info@thau.tech</span>
-                        </a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="https://wa.me/34677470860">
-                            <i class="i-mdi-whatsapp"></i><span>+34 677 470 860</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://maps.google.com/maps?q=barcelona+(THAU)&z=10" target="_blank">
-                            <i class="i-mdi-home-city-outline"></i><span>Barcelona, Spain</span>
-                        </a>
-                    </li>
-                </ul>
-
+            <div>
+                <h4 class="title">PROGRAMMING LANGUAGES</h4>
+                <span class="badge">Python</span>
+                <span class="badge">C/C++</span>
+                <span class="badge">SQL</span>
+                <span class="badge">Java(EE)</span>
+                <span class="badge">TypeScript</span>
+                <span class="badge">HTML</span>
+                <span class="badge">CSS</span>
+                <span class="badge">Shell</span>
+            </div>
+            <div class="col-span-2">
+                <h4 class="title">TOOLING AND SOFTWARE</h4>
+                <span class="badge">TensorFlow</span>
+                <span class="badge">PyTorch</span>
+                <span class="badge">Airflow</span>
+                <span class="badge">Airbyte</span>
+                <span class="badge">DBT</span>
+                <span class="badge">Kafka</span>
+                <span class="badge">Spark</span>
+                <span class="badge">Hadoop</span>
+                <span class="badge">Kubernetes</span>
+                <span class="badge">PostgreSQL</span>
+                <span class="badge">MongoDB</span>
+                <span class="badge">Redis</span>
+                <span class="badge">Elastic</span>
+                <span class="badge">FastAPI</span>
+                <span class="badge">Vue</span>
+                <span class="badge">Angular</span>
+                <span class="badge">NestJS</span>
+                <span class="badge">Git</span>
+            </div>
+            <div>
+                <h4 class="title">CLOUD SERVICES</h4>
+                <span class="badge">Amazon AWS</span>
+                <span class="badge">Google Cloud</span>
+                <span class="badge">Microsoft Azure</span>
+                <span class="badge">CloudFlare</span>
+                <span class="badge">DigitalOcean</span>
+                <span class="badge">GitHub / Jira</span>
             </div>
         </div>
-
     </section>
 </template>
 
 <style scoped>
-a {
-    --at-apply: text-slate-700 hover:font-bold cursor-pointer
+h4.title {
+    --at-apply: text-xl text-slate-700 mb-2
 }
 
-a>i {
-    --at-apply: inline-block text-lg align-middle mr-2
+span.badge {
+    --at-apply: inline-block text-sm font-medium font-bold bg-slate-200 text-slate-700 rounded-full px-2 py-1 mr-2 mb-2 dark:bg-slate-700 dark:text-slate-300
 }
 </style>
