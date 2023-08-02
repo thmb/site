@@ -1,7 +1,6 @@
 <template>
     <section class="container px-4 pb-4 mx-auto">
         <div class="card grid grid-cols-1 xl:grid-cols-4 gap-4 p-4">
-
             <div>
                 <h4 class="title">{{ $t("component.skills.languages") }}</h4>
                 <span class="badge">Python</span>

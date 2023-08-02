@@ -44,7 +44,7 @@
 
 <style scoped>
 a {
-    --at-apply: text-lg text-slate-700 hover:font-bold cursor-pointer
+    --at-apply: text-lg text-slate-600 hover:text-slate-800 cursor-pointer
 }
 
 a>i {

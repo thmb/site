@@ -62,6 +62,19 @@
                 "school": "Universidad Federal de Minas Gerais {'@'} Brasil",
                 "summary": "Proyecto “Desarrollo de Redes de Instrumentación Distribuida Utilizando Red de Área de Controlador” como trabajo de conclusión. Curso de corta duración en control estadístico de procesos. Experiencia en prácticas con sistemas operativos en tiempo real."
             }
+        },
+        "social": {
+            "personal": {
+                "title": "PERSONAL",
+                "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae voluptatum, voluptas veniam rem asperiores natus, sit tempore iusto expedita numquam, corporis amet. Sint expedita ad reprehenderit numquam laborum nesciunt tempora tempore corrupti iusto vero. Excepturi repellat corporis animi eaque corrupti?"
+            },
+            "hobbies": {
+                "title": "AFICIONES",
+                "pilot": "piloto privado aficionado a las acrobacias aéreas",
+                "dance": "danza estilo brasileño",
+                "swim": "natación"
+            },
+            "networks": "REDES"
         }
     }
 }

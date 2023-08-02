@@ -1,24 +1,6 @@
 <template>
     <section class="container mx-auto px-4 py-20">
-        <div class="text-center text-slate-700  mb-16">
-            <h3 class="title">{{ $t("component.purpose.title") }}</h3>
-            <p class="text-xl">{{ $t("component.purpose.subtitle") }}</p>
-        </div>
-
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-20">
-            <div class="value">
-                <h4>{{ $t("component.purpose.excel.title") }}</h4>
-                <p>{{ $t("component.purpose.excel.content") }}</p>
-            </div>
-            <div class="value">
-                <h4>{{ $t("component.purpose.share.title") }}</h4>
-                <p>{{ $t("component.purpose.share.content") }}</p>
-            </div>
-            <div class="value">
-                <h4>{{ $t("component.purpose.enjoy.title") }}</h4>
-                <p>{{ $t("component.purpose.enjoy.content") }}</p>
-            </div>
-        </div>
+        POSTS
     </section>
 </template>
 

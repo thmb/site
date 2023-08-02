@@ -62,6 +62,19 @@
                 "school": "Federal University of Minas Gerais {'@'} Brazil",
                 "summary": "Project “Distributed Instrumentation Network Development Using Controller Area Network” as conclusion work. Short term course in statistical process control. Intern experience with real time operating systems."
             }
+        },
+        "social": {
+            "personal": {
+                "title": "PERSONAL",
+                "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae voluptatum, voluptas veniam rem asperiores natus, sit tempore iusto expedita numquam, corporis amet. Sint expedita ad reprehenderit numquam laborum nesciunt tempora tempore corrupti iusto vero. Excepturi repellat corporis animi eaque corrupti?"
+            },
+            "hobbies": {
+                "title": "HOBBIES",
+                "pilot": "private pilot and aerobatics enthusiast)",
+                "dance": "brazilian style Dance",
+                "swim": "swimming"
+            },
+            "networks": "NETWORKS"
         }
     }
 }
