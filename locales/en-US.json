@@ -25,28 +25,42 @@
         },
         "experience": {
             "thau": {
-                "role": "Software Engineer (Founder)",
-                "date": "Dec 2017 - Present",
-                "site": "THAU {'@'} Brazil",
-                "work": "Imoiê: scale up a REST application built in Python that uses machine learning to predict and reduce school dropout based on class attendance and delays. [imoie.com.br] State of Minas Gerais Education Secretary: lead a team of 7 people programming in Java (EE), SQL Server and CI/CD to implement a capacity management app, an online enrollment system for 1.8M students and a school staff timetable. [educacao.mg.gov.br] netLex: consultancy and training to improve technology (C/C++, Angular and MySQL) to streamline legal documents formalization and management processes enabling to extract relevant data and create intelligence. [netlex.io]"
+                "position": "Software Engineer (Founder)",
+                "duration": "Dec 2017 - Present",
+                "company": "THAU {'@'} Brazil",
+                "summary": "Imoiê: scale up a REST application built in Python that uses machine learning to predict and reduce school dropout based on class attendance and delays. [imoie.com.br] State of Minas Gerais Education Secretary: lead a team of 7 people programming in Java (EE), SQL Server and CI/CD to implement a capacity management app, an online enrollment system for 1.8M students and a school staff timetable. [educacao.mg.gov.br] netLex: consultancy and training to improve technology (C/C++, Angular and MySQL) to streamline legal documents formalization and management processes enabling to extract relevant data and create intelligence. [netlex.io]"
             },
             "una": {
-                "role": "Professor & Program Content Assistant",
-                "date": "Jan 2015 - Dec 2017",
-                "site": "Una {'@'} Brazil",
-                "work": "Industrial Control Process course using Python and MATLAB to model sensors and actuators and tune PID controllers. Processor and Peripheral Systems course exploring x86 and ARM architectures and also Arduino devices with their modules. Industrial Automation Networks course and topics in scientific programming with Python and temporal series datasets."
+                "position": "Professor & Program Content Assistant",
+                "duration": "Jan 2015 - Dec 2017",
+                "company": "Una {'@'} Brazil",
+                "summary": "Industrial Control Process course using Python and MATLAB to model sensors and actuators and tune PID controllers. Processor and Peripheral Systems course exploring x86 and ARM architectures and also Arduino devices with their modules. Industrial Automation Networks course and topics in scientific programming with Python and temporal series datasets."
             },
             "linksaude": {
-                "role": "Software Engineer (Co-Founder)",
-                "date": "Sep 2011 - Dec 2017",
-                "site": "LinkSaúde {'@'} Brazil",
-                "work": "Online clinical information app built with Angular, NestJS, and MongoDB using async/await routines and AWS integrations. Initial version built using Cassandra in a GCP cluster as a database with later migration to MongoDB using Apache Airflow."
+                "position": "Software Engineer (Co-Founder)",
+                "duration": "Sep 2011 - Dec 2017",
+                "company": "LinkSaúde {'@'} Brazil",
+                "summary": "Online clinical information app built with Angular, NestJS, and MongoDB using async/await routines and AWS integrations. Initial version built using Cassandra in a GCP cluster as a database with later migration to MongoDB using Apache Airflow."
             },
             "ats": {
-                "role": "Software Engineer (Full Stack)",
-                "date": "Dec 2007 - Aug 2011",
-                "site": "Acute Technological Services {'@'} USA",
-                "work": "Design and implementation using Spring and PostgreSQL of an online personnel timesheet for non-stop industrial fields. Design, development and operation of a weld data system to manage the construction of a pipeline that interconnected the states of Texas, Oklahoma and Kansas."
+                "position": "Software Engineer (Full Stack)",
+                "duration": "Dec 2007 - Aug 2011",
+                "company": "Acute Technological Services {'@'} USA",
+                "summary": "Design and implementation using Spring and PostgreSQL of an online personnel timesheet for non-stop industrial fields. Design, development and operation of a weld data system to manage the construction of a pipeline that interconnected the states of Texas, Oklahoma and Kansas."
+            }
+        },
+        "education": {
+            "ufrj": {
+                "course": "Master in Electrical Engineering",
+                "duration": "Jan 2009 - Aug 2011",
+                "school": "Federal University of Rio de Janeiro {'@'} Brazil",
+                "summary": "Thesis “A Text Mining Tool in University Hospital Databases Using Matrix Decompositions” with abstract available at: http://pee.ufrj.br/teses/index.php?Abstract=2011082401 Course about neural networks and machine learning algorithms. Course about linear algebra and (sparse) matrix decompositions. Course about principal components analysis and data compression."
+            },
+            "ufmg": {
+                "course": "Graduation in Controls And Automation Engineering",
+                "duration": "Jan 2001 - Dec 2005",
+                "school": "Federal University of Minas Gerais {'@'} Brazil",
+                "summary": "Project “Distributed Instrumentation Network Development Using Controller Area Network” as conclusion work. Short term course in statistical process control. Intern experience with real time operating systems."
             }
         }
     }

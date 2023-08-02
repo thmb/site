@@ -25,28 +25,42 @@
         },
         "experience": {
             "thau": {
-                "role": "Ingeniero de Software (Fundador)",
-                "date": "Dic 2017 - Presente",
-                "site": "THAU {'@'} Brasil",
-                "work": "Imoiê: amplíe una aplicación REST construida en Python que utiliza el aprendizaje automático para predecir y reducir la deserción escolar en función de la asistencia a clases y los retrasos. [imoie.com.br] Secretaría de Educación del Estado de Minas Gerais: lideró un equipo de 7 personas programando en Java (EE), SQL Server y CI/CD para implementar una aplicación de gestión de capacidad, un sistema de inscripción en línea para 1,8 millones de estudiantes y un horario del personal de la escuela. [educacao.mg.gov.br] netLex: consultoría y capacitación para mejorar la tecnología (C/C++, Angular y MySQL) para agilizar los procesos de formalización y gestión de documentos legales que permitan extraer datos relevantes y generar inteligencia. [netlex.io]"
+                "position": "Ingeniero de Software (Fundador)",
+                "duration": "Dic 2017 - Presente",
+                "company": "THAU {'@'} Brasil",
+                "summary": "Imoiê: amplíe una aplicación REST construida en Python que utiliza el aprendizaje automático para predecir y reducir la deserción escolar en función de la asistencia a clases y los retrasos. [imoie.com.br] Secretaría de Educación del Estado de Minas Gerais: lideró un equipo de 7 personas programando en Java (EE), SQL Server y CI/CD para implementar una aplicación de gestión de capacidad, un sistema de inscripción en línea para 1,8 millones de estudiantes y un horario del personal de la escuela. [educacao.mg.gov.br] netLex: consultoría y capacitación para mejorar la tecnología (C/C++, Angular y MySQL) para agilizar los procesos de formalización y gestión de documentos legales que permitan extraer datos relevantes y generar inteligencia. [netlex.io]"
             },
             "una": {
-                "role": "Profesor y Asistente de Contenido del Programa",
-                "date": "Ene 2015 - Dic 2017",
-                "site": "Una {'@'} Brasil",
-                "work": "Curso de Procesos de Control Industrial utilizando Python y MATLAB para modelar sensores y actuadores y ajustar controladores PID. Curso de Procesadores y Sistemas Periféricos explorando arquitecturas x86 y ARM y también dispositivos Arduino con sus módulos. Curso de Redes de Automatización Industrial y temas en programación científica con Python y conjuntos de datos de series temporales."
+                "position": "Profesor y Asistente de Contenido del Programa",
+                "duration": "Ene 2015 - Dic 2017",
+                "company": "Una {'@'} Brasil",
+                "summary": "Curso de Procesos de Control Industrial utilizando Python y MATLAB para modelar sensores y actuadores y ajustar controladores PID. Curso de Procesadores y Sistemas Periféricos explorando arquitecturas x86 y ARM y también dispositivos Arduino con sus módulos. Curso de Redes de Automatización Industrial y temas en programación científica con Python y conjuntos de datos de series temporales."
             },
             "linksaude": {
-                "role": "Ingeniero de Software (Cofundador)",
-                "date": "Sep 2011 - Dic 2017",
-                "site": "LinkSaúde {'@'} Brasil",
-                "work": "Aplicación de información clínica en línea creada con Angular, NestJS y MongoDB mediante rutinas asíncronas/en espera e integraciones de AWS. Versión inicial creada usando Cassandra en un clúster de GCP como base de datos con migración posterior a MongoDB usando Apache Airflow."
+                "position": "Ingeniero de Software (Cofundador)",
+                "duration": "Sep 2011 - Dic 2017",
+                "company": "LinkSaúde {'@'} Brasil",
+                "summary": "Aplicación de información clínica en línea creada con Angular, NestJS y MongoDB mediante rutinas asíncronas/en espera e integraciones de AWS. Versión inicial creada usando Cassandra en un clúster de GCP como base de datos con migración posterior a MongoDB usando Apache Airflow."
             },
             "ats": {
-                "role": "Ingeniero de Software (Full Stack)",
-                "date": "Dic 2007 - Ago 2011",
-                "site": "Acute Technological Services {'@'} USA",
-                "work": "Diseño e implementación usando Spring y PostgreSQL de una hoja de tiempo de personal en línea para campos industriales continuos. Diseño, desarrollo y operación de un sistema de datos de soldadura para gestionar la construcción de un gasoducto que interconectara los estados de Texas, Oklahoma y Kansas."
+                "position": "Ingeniero de Software (Full Stack)",
+                "duration": "Dic 2007 - Ago 2011",
+                "company": "Acute Technological Services {'@'} USA",
+                "summary": "Diseño e implementación usando Spring y PostgreSQL de una hoja de tiempo de personal en línea para campos industriales continuos. Diseño, desarrollo y operación de un sistema de datos de soldadura para gestionar la construcción de un gasoducto que interconectara los estados de Texas, Oklahoma y Kansas."
+            }
+        },
+        "education": {
+            "ufrj": {
+                "course": "Máster en Ingeniería Eléctrica",
+                "duration": "Ene 2009 - Ago 2011",
+                "school": "Universidad Federal de Río de Janeiro {'@'} Brasil",
+                "summary": "Tesis “A Text Mining Tool in University Hospital Databases Using Matrix Decompositions” con resumen disponible en: http://pee.ufrj.br/teses/index.php?Abstract=2011082401 Curso sobre redes neuronales y algoritmos de aprendizaje automático. Curso de álgebra lineal y descomposición de matrices (escasas). Curso sobre análisis de componentes principales y compresión de datos."
+            },
+            "ufmg": {
+                "course": "Graduado en Ingeniería de Controles y Automatización",
+                "duration": "Ene 2001 - Dic 2005",
+                "school": "Universidad Federal de Minas Gerais {'@'} Brasil",
+                "summary": "Proyecto “Desarrollo de Redes de Instrumentación Distribuida Utilizando Red de Área de Controlador” como trabajo de conclusión. Curso de corta duración en control estadístico de procesos. Experiencia en prácticas con sistemas operativos en tiempo real."
             }
         }
     }
