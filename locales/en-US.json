@@ -17,6 +17,37 @@
             "address": "Barcelona, Catalonia, Spain",
             "title": "PROFILE",
             "summary": "I am looking for opportunities to collaborate in projects involving data science and software development, with special interest in math techniques and crypto assets. I have been working with data pipelines and web development for the past 15 years, while interacting with startups, enterprises and government. Currently, I'm working as senior software engineer in remote projects worldwide. My expertise and interests includes artificial intelligence, big data analytics, agile software development and blockchain platforms."
+        },
+        "skills": {
+            "languages": "PROGRAMMING LANGUAGES",
+            "tools": "TOOLING AND SOFTWARE",
+            "services": "CLOUD SERVICES"
+        },
+        "experience": {
+            "thau": {
+                "role": "Software Engineer (Founder)",
+                "date": "Dec 2017 - Present",
+                "site": "THAU {'@'} Brazil",
+                "work": "Imoiê: scale up a REST application built in Python that uses machine learning to predict and reduce school dropout based on class attendance and delays. [imoie.com.br] State of Minas Gerais Education Secretary: lead a team of 7 people programming in Java (EE), SQL Server and CI/CD to implement a capacity management app, an online enrollment system for 1.8M students and a school staff timetable. [educacao.mg.gov.br] netLex: consultancy and training to improve technology (C/C++, Angular and MySQL) to streamline legal documents formalization and management processes enabling to extract relevant data and create intelligence. [netlex.io]"
+            },
+            "una": {
+                "role": "Professor & Program Content Assistant",
+                "date": "Jan 2015 - Dec 2017",
+                "site": "Una {'@'} Brazil",
+                "work": "Industrial Control Process course using Python and MATLAB to model sensors and actuators and tune PID controllers. Processor and Peripheral Systems course exploring x86 and ARM architectures and also Arduino devices with their modules. Industrial Automation Networks course and topics in scientific programming with Python and temporal series datasets."
+            },
+            "linksaude": {
+                "role": "Software Engineer (Co-Founder)",
+                "date": "Sep 2011 - Dec 2017",
+                "site": "LinkSaúde {'@'} Brazil",
+                "work": "Online clinical information app built with Angular, NestJS, and MongoDB using async/await routines and AWS integrations. Initial version built using Cassandra in a GCP cluster as a database with later migration to MongoDB using Apache Airflow."
+            },
+            "ats": {
+                "role": "Software Engineer (Full Stack)",
+                "date": "Dec 2007 - Aug 2011",
+                "site": "Acute Technological Services {'@'} USA",
+                "work": "Design and implementation using Spring and PostgreSQL of an online personnel timesheet for non-stop industrial fields. Design, development and operation of a weld data system to manage the construction of a pipeline that interconnected the states of Texas, Oklahoma and Kansas."
+            }
         }
     }
 }

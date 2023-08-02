@@ -3,7 +3,7 @@
         <div class="card grid grid-cols-1 xl:grid-cols-4 gap-4 p-4">
 
             <div>
-                <h4 class="title">PROGRAMMING LANGUAGES</h4>
+                <h4 class="title">{{ $t("component.skills.languages") }}</h4>
                 <span class="badge">Python</span>
                 <span class="badge">C/C++</span>
                 <span class="badge">SQL</span>
@@ -14,7 +14,7 @@
                 <span class="badge">Shell</span>
             </div>
             <div class="col-span-2">
-                <h4 class="title">TOOLING AND SOFTWARE</h4>
+                <h4 class="title">{{ $t("component.skills.tools") }}</h4>
                 <span class="badge">TensorFlow</span>
                 <span class="badge">PyTorch</span>
                 <span class="badge">Airflow</span>
@@ -35,7 +35,7 @@
                 <span class="badge">Git</span>
             </div>
             <div>
-                <h4 class="title">CLOUD SERVICES</h4>
+                <h4 class="title">{{ $t("component.skills.services") }}</h4>
                 <span class="badge">Amazon AWS</span>
                 <span class="badge">Google Cloud</span>
                 <span class="badge">Microsoft Azure</span>
