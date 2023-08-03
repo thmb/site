@@ -1,40 +1,40 @@
 <template>
-    <section class="container px-4 pb-4 mx-auto">
-        <div class="card p-4">
-            <h3 class="text-xl text-slate-700 mb-2">EXPERIENCE</h3>
-            <div class="experience">
-                <div>
-                    <h4 class="position">{{ $t("component.experience.thau.position") }}</h4>
-                    <h4 class="duration">{{ $t("component.experience.thau.duration") }}</h4>
-                    <h4 class="company">{{ $t("component.experience.thau.company") }}</h4>
-                </div>
-                <p class="summary">{{ $t("component.experience.thau.summary") }}</p>
+    <section class="container px-4 mt-10 mx-auto">
+        <!-- <div class="card p-4"> -->
+        <h3 class="text-xl text-slate-700 mb-4">EXPERIENCE</h3>
+        <div class="experience">
+            <div>
+                <h4 class="position">{{ $t("component.experience.thau.position") }}</h4>
+                <h4 class="duration">{{ $t("component.experience.thau.duration") }}</h4>
+                <h4 class="company">{{ $t("component.experience.thau.company") }}</h4>
             </div>
-            <div class="experience">
-                <div>
-                    <h4 class="position">{{ $t("component.experience.una.position") }}</h4>
-                    <h4 class="duration">{{ $t("component.experience.una.duration") }}</h4>
-                    <h4 class="company">{{ $t("component.experience.una.company") }}</h4>
-                </div>
-                <p class="summary">{{ $t("component.experience.una.summary") }}</p>
-            </div>
-            <div class="experience">
-                <div>
-                    <h4 class="position">{{ $t("component.experience.linksaude.position") }}</h4>
-                    <h4 class="duration">{{ $t("component.experience.linksaude.duration") }}</h4>
-                    <h4 class="company">{{ $t("component.experience.linksaude.company") }}</h4>
-                </div>
-                <p class="summary">{{ $t("component.experience.linksaude.summary") }}</p>
-            </div>
-            <div class="experience">
-                <div>
-                    <h4 class="position">{{ $t("component.experience.ats.position") }}</h4>
-                    <h4 class="duration">{{ $t("component.experience.ats.duration") }}</h4>
-                    <h4 class="company">{{ $t("component.experience.ats.company") }}</h4>
-                </div>
-                <p class="summary">{{ $t("component.experience.ats.summary") }}</p>
-            </div>
+            <p class="summary">{{ $t("component.experience.thau.summary") }}</p>
         </div>
+        <div class="experience">
+            <div>
+                <h4 class="position">{{ $t("component.experience.una.position") }}</h4>
+                <h4 class="duration">{{ $t("component.experience.una.duration") }}</h4>
+                <h4 class="company">{{ $t("component.experience.una.company") }}</h4>
+            </div>
+            <p class="summary">{{ $t("component.experience.una.summary") }}</p>
+        </div>
+        <div class="experience">
+            <div>
+                <h4 class="position">{{ $t("component.experience.linksaude.position") }}</h4>
+                <h4 class="duration">{{ $t("component.experience.linksaude.duration") }}</h4>
+                <h4 class="company">{{ $t("component.experience.linksaude.company") }}</h4>
+            </div>
+            <p class="summary">{{ $t("component.experience.linksaude.summary") }}</p>
+        </div>
+        <div class="experience">
+            <div>
+                <h4 class="position">{{ $t("component.experience.ats.position") }}</h4>
+                <h4 class="duration">{{ $t("component.experience.ats.duration") }}</h4>
+                <h4 class="company">{{ $t("component.experience.ats.company") }}</h4>
+            </div>
+            <p class="summary">{{ $t("component.experience.ats.summary") }}</p>
+        </div>
+        <!-- </div> -->
     </section>
 </template>
 
