@@ -10,10 +10,10 @@
             <!-- HOBBIES -->
             <div>
                 <h4>{{ $t("component.social.hobbies.title") }}</h4>
-                <span class="badge">{{ $t("component.social.hobbies.pilot") }}</span>
-                <span class="badge">{{ $t("component.social.hobbies.linux") }}</span>
-                <span class="badge">{{ $t("component.social.hobbies.dance") }}</span>
-                <span class="badge">{{ $t("component.social.hobbies.swim") }}</span>
+                <span class="badge hobby">{{ $t("component.social.hobbies.pilot") }}</span>
+                <span class="badge hobby">{{ $t("component.social.hobbies.linux") }}</span>
+                <span class="badge hobby">{{ $t("component.social.hobbies.dance") }}</span>
+                <span class="badge hobby">{{ $t("component.social.hobbies.swim") }}</span>
             </div>
 
             <!-- NETWORKS -->
@@ -55,7 +55,7 @@ a>i {
     --at-apply: inline-block text-lg align-middle mr-1
 }
 
-span.badge {
-    --at-apply: inline-block text-sm font-semibold rounded-full bg-slate-200 text-slate-700 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 mr-2 mb-2
+span.hobby {
+    --at-apply: mr-2 mb-2
 }
 </style>

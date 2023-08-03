@@ -24,39 +24,39 @@
                 </div>
             </div>
             <div>
-                <span class="badge">Python</span>
-                <span class="badge">SQL</span>
-                <span class="badge">TypeScript</span>
-                <span class="badge">HTML/CSS</span>
-                <span class="badge">Java(EE)</span>
-                <span class="badge">C/C++</span>
+                <span class="badge topic">Python</span>
+                <span class="badge topic">SQL</span>
+                <span class="badge topic">TypeScript</span>
+                <span class="badge topic">HTML/CSS</span>
+                <span class="badge topic">Java(EE)</span>
+                <span class="badge topic">C/C++</span>
 
-                <span class="badge">TensorFlow</span>
-                <span class="badge">PyTorch</span>
-                <span class="badge">Spark</span>
-                <span class="badge">Airflow</span>
-                <span class="badge">Airbyte</span>
-                <span class="badge">DBT</span>
+                <span class="badge topic">TensorFlow</span>
+                <span class="badge topic">PyTorch</span>
+                <span class="badge topic">Spark</span>
+                <span class="badge topic">Airflow</span>
+                <span class="badge topic">Airbyte</span>
+                <span class="badge topic">DBT</span>
 
-                <span class="badge">PostgreSQL</span>
-                <span class="badge">MongoDB</span>
-                <span class="badge">Redis</span>
-                <span class="badge">ElasticSearch</span>
-                <span class="badge">Kafka</span>
+                <span class="badge topic">PostgreSQL</span>
+                <span class="badge topic">MongoDB</span>
+                <span class="badge topic">Redis</span>
+                <span class="badge topic">ElasticSearch</span>
+                <span class="badge topic">Kafka</span>
 
-                <span class="badge">FastAPI</span>
-                <span class="badge">Vue</span>
-                <span class="badge">Angular</span>
-                <span class="badge">NestJS</span>
-                <span class="badge">Kubernetes</span>
-                <span class="badge">Git(Flow)</span>
+                <span class="badge topic">FastAPI</span>
+                <span class="badge topic">Vue</span>
+                <span class="badge topic">Angular</span>
+                <span class="badge topic">NestJS</span>
+                <span class="badge topic">Kubernetes</span>
+                <span class="badge topic">Git(Flow)</span>
 
-                <span class="badge">AWS</span>
-                <span class="badge">Google Cloud</span>
-                <span class="badge">Azure</span>
-                <span class="badge">CloudFlare</span>
-                <span class="badge">GitHub</span>
-                <span class="badge">Jira</span>
+                <span class="badge topic">AWS</span>
+                <span class="badge topic">Google Cloud</span>
+                <span class="badge topic">Azure</span>
+                <span class="badge topic">CloudFlare</span>
+                <span class="badge topic">GitHub</span>
+                <span class="badge topic">Jira</span>
             </div>
         </div>
     </section>
@@ -65,8 +65,8 @@
 
 
 <style scoped>
-span.badge {
-    --at-apply: inline-block text-sm font-semibold rounded-full bg-slate-200 text-slate-700 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 mr-2 mb-3
+span.topic {
+    --at-apply: mr-2 mb-3
 }
 
 div.label {

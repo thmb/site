@@ -12,13 +12,13 @@
                             {{ $t("component.profile.profession") }}
                         </h3>
                         <div>
-                            <span class="badge">
+                            <span class="badge language">
                                 {{ $t("component.profile.language.portuguese") }}
                             </span>
-                            <span class="badge">
+                            <span class="badge language">
                                 {{ $t("component.profile.language.english") }}
                             </span>
-                            <span class="badge">
+                            <span class="badge language">
                                 {{ $t("component.profile.language.spanish") }}
                             </span>
                         </div>
@@ -73,7 +73,7 @@ a>span {
     --at-apply: align-middle
 }
 
-span.badge {
-    --at-apply: inline-block text-sm font-semibold rounded-full bg-slate-200 text-slate-700 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 mr-2 lg:mr-1
+span.language {
+    --at-apply: mr-2 mb-2
 }
 </style>
