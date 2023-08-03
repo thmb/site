@@ -19,9 +19,12 @@
             "summary": "He estado trabajando con lagos de datos, análisis, aprendizaje automático y desarrollo web/móvil, mientras interactuaba con nuevas empresas, empresas y el gobierno. Actualmente, trabajo como ingeniero de software senior en proyectos remotos en todo el mundo. Mi experiencia e intereses incluyen inteligencia artificial, análisis de big data, desarrollo de software ágil y plataformas blockchain."
         },
         "skills": {
-            "languages": "LENGUAJES DE PROGRAMACIÓN",
-            "tools": "HERRAMIENTAS Y SOFTWARE",
-            "services": "SERVICIOS EN LA NUBE"
+            "title": "HABILIDADES",
+            "teamwork": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem rem sint quidem deleniti enim accusamus libero corrupti explicabo ducimus quaerat, doloribus voluptatibus quibusdam adipisci dolore in vero. Perspiciatis tempore rem delectus obcaecati eligendi, dolorem velit tempora dolorum sit reiciendis!",
+            "science": "Ciencia de los Datos",
+            "software": "Desarrollo Web",
+            "database": "Base de Datos y Eventos",
+            "platform": "Plataforma y CI/CD"
         },
         "experience": {
             "thau": {

@@ -1,12 +1,10 @@
 <template>
-    <div class="bg-slate-200">
-        <Profile />
-        <Skills />
-        <Experience />
-        <Education />
-        <!-- <Posts /> -->
-        <Social />
-    </div>
+    <Profile />
+    <Skills />
+    <Experience />
+    <Education />
+    <!-- <Posts /> -->
+    <Social />
 </template>
 
 <!-- <script>

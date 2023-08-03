@@ -1,8 +1,8 @@
 <template>
-    <section class="w-full pb-4">
+    <section class="w-full">
         <div class="h-60 bg-thau"></div>
 
-        <div class="container items-center grid grid-cols-1 xl:grid-cols-2 gap-8 mx-auto -mt-30 px-4">
+        <div class="container items-center grid grid-cols-1 xl:grid-cols-2 gap-10 mx-auto -mt-30 px-4">
 
             <div class="flex flex-col md:flex-row">
                 <img class="w-full md:w-60" src="/images/thiago-2018.jpg" alt="Thiago Madureira Braga">
@@ -73,7 +73,7 @@ a>span {
     --at-apply: align-middle
 }
 
-.badge {
-    --at-apply: inline-block bg-slate-200 text-slate-700 text-sm font-semibold px-2 py-1 mr-2 lg:mr-1 rounded-full dark:bg-slate-700 dark:text-slate-300
+span.badge {
+    --at-apply: inline-block text-sm font-semibold rounded-full bg-slate-200 text-slate-700 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 mr-2 lg:mr-1
 }
 </style>

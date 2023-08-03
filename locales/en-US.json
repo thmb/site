@@ -19,9 +19,12 @@
             "summary": "I have been working with datalakes, analytics, machine learning and web/mobile development, while interacting with startups, enterprises and government. Currently, I am working as senior software engineer in remote projects worldwide. My expertise and interests includes artificial intelligence, big data analytics, agile software development and blockchain platforms."
         },
         "skills": {
-            "languages": "PROGRAMMING LANGUAGES",
-            "tools": "TOOLING AND SOFTWARE",
-            "services": "CLOUD SERVICES"
+            "title": "SKILLS",
+            "teamwork": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem rem sint quidem deleniti enim accusamus libero corrupti explicabo ducimus quaerat, doloribus voluptatibus quibusdam adipisci dolore in vero. Perspiciatis tempore rem delectus obcaecati eligendi, dolorem velit tempora dolorum sit reiciendis!",
+            "science": "Data Science",
+            "software": "Web Development",
+            "database": "Database & Events",
+            "platform": "Platform & CI/CD"
         },
         "experience": {
             "thau": {
