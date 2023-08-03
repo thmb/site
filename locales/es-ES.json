@@ -73,9 +73,10 @@
             },
             "hobbies": {
                 "title": "AFICIONES",
-                "pilot": "piloto privado aficionado a las acrobacias aéreas",
-                "dance": "danza estilo brasileño",
-                "swim": "natación"
+                "pilot": "piloto privado",
+                "linux": "servidor doméstico linux",
+                "dance": "baile brasileño",
+                "swim": "nadar al aire libre"
             },
             "networks": "REDES"
         }

@@ -73,9 +73,10 @@
             },
             "hobbies": {
                 "title": "HOBBIES",
-                "pilot": "private pilot and aerobatics enthusiast",
-                "dance": "brazilian style dance",
-                "swim": "swimming"
+                "pilot": "private pilot",
+                "linux": "linux home server",
+                "dance": "brazilian dance",
+                "swim": "outdoor swimming"
             },
             "networks": "NETWORKS"
         }

@@ -1,6 +1,6 @@
 <template>
     <section class="body-font bg-slate-600 text-slate-200">
-        <div class="container px-4 py-16 mx-auto grid grid-cols-2 lg:grid-cols-4 gap-10 text-center md:text-left">
+        <div class="container grid grid-cols-2 lg:grid-cols-4 gap-10 text-center md:text-left px-4 py-16 mt-10 mx-auto">
             <!-- PERSONAL -->
             <div class="col-span-2">
                 <h4>{{ $t("component.social.personal.title") }}</h4>
@@ -11,6 +11,7 @@
             <div>
                 <h4>{{ $t("component.social.hobbies.title") }}</h4>
                 <span class="badge">{{ $t("component.social.hobbies.pilot") }}</span>
+                <span class="badge">{{ $t("component.social.hobbies.linux") }}</span>
                 <span class="badge">{{ $t("component.social.hobbies.dance") }}</span>
                 <span class="badge">{{ $t("component.social.hobbies.swim") }}</span>
             </div>
@@ -55,6 +56,6 @@ a>i {
 }
 
 span.badge {
-    --at-apply: inline-block text-sm font-medium font-bold bg-slate-200 text-slate-700 rounded-full px-2 py-1 mr-2 mb-2 dark:bg-slate-700 dark:text-slate-300
+    --at-apply: inline-block text-sm font-semibold rounded-full bg-slate-200 text-slate-700 dark:bg-slate-700 dark:text-slate-300 px-2 py-1 mr-2 mb-2
 }
 </style>

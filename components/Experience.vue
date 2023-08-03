@@ -1,6 +1,5 @@
 <template>
     <section class="container px-4 mt-10 mx-auto">
-        <!-- <div class="card p-4"> -->
         <h3 class="text-xl text-slate-700 mb-4">EXPERIENCE</h3>
         <div class="experience">
             <div>
@@ -34,7 +33,6 @@
             </div>
             <p class="summary">{{ $t("component.experience.ats.summary") }}</p>
         </div>
-        <!-- </div> -->
     </section>
 </template>
 

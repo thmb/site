@@ -1,23 +1,21 @@
 <template>
-    <section class="container px-4 pb-4 mx-auto">
-        <div class="card p-4">
-            <h3 class="text-xl text-slate-700 mb-2">EDUCATION</h3>
-            <div class="education">
-                <div>
-                    <h4 class="course">{{ $t("component.education.ufrj.course") }}</h4>
-                    <h4 class="duration">{{ $t("component.education.ufrj.duration") }}</h4>
-                    <h4 class="school">{{ $t("component.education.ufrj.school") }}</h4>
-                </div>
-                <p class="summary">{{ $t("component.education.ufrj.summary") }}</p>
+    <section class="container px-4 mt-10 mx-auto">
+        <h3 class="text-xl text-slate-700 mb-2">EDUCATION</h3>
+        <div class="education">
+            <div>
+                <h4 class="course">{{ $t("component.education.ufrj.course") }}</h4>
+                <h4 class="duration">{{ $t("component.education.ufrj.duration") }}</h4>
+                <h4 class="school">{{ $t("component.education.ufrj.school") }}</h4>
             </div>
-            <div class="education">
-                <div>
-                    <h4 class="course">{{ $t("component.education.ufmg.course") }}</h4>
-                    <h4 class="duration">{{ $t("component.education.ufmg.duration") }}</h4>
-                    <h4 class="school">{{ $t("component.education.ufmg.school") }}</h4>
-                </div>
-                <p class="summary">{{ $t("component.education.ufmg.summary") }}</p>
+            <p class="summary">{{ $t("component.education.ufrj.summary") }}</p>
+        </div>
+        <div class="education">
+            <div>
+                <h4 class="course">{{ $t("component.education.ufmg.course") }}</h4>
+                <h4 class="duration">{{ $t("component.education.ufmg.duration") }}</h4>
+                <h4 class="school">{{ $t("component.education.ufmg.school") }}</h4>
             </div>
+            <p class="summary">{{ $t("component.education.ufmg.summary") }}</p>
         </div>
     </section>
 </template>
