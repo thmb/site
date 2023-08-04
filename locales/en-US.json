@@ -15,16 +15,16 @@
                 "chinese": "Chinese {'|'} A2"
             },
             "address": "Barcelona, Catalonia, Spain",
-            "focus": "I am a lifelong learner with over 15+ years of experience and focus on data science and web development, with special interest in math techniques and crypto assets.",
-            "summary": "I have been working with datalakes, analytics, machine learning and web/mobile development, while interacting with startups, enterprises and government. Currently, I am working as senior software engineer in remote projects worldwide. My expertise and interests includes artificial intelligence, big data analytics, agile software development and blockchain platforms."
+            "focus": "I am a lifelong learner with over 15+ years of experience and a focus on data science and web development, with special interest in math techniques and crypto assets.",
+            "summary": "I have been working with datalakes, analytics, machine learning and web/mobile development, while interacting with startups, enterprises and governments. Currently, I am working as senior software engineer in remote projects worldwide. My expertise and interests includes artificial intelligence, big data analytics, agile software development and blockchain platforms."
         },
         "skills": {
             "title": "SKILLS",
-            "teamwork": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem rem sint quidem deleniti enim accusamus libero corrupti explicabo ducimus quaerat, doloribus voluptatibus quibusdam adipisci dolore in vero. Perspiciatis tempore rem delectus obcaecati eligendi, dolorem!",
+            "teamwork": "I have a strong mathematical background, programming proficiency, knowledge of (non) relational databases, resilient messaging systems, experience with containers and popular cloud providers. I enjoy multicultural teamwork and continuous learning.",
             "science": "Data Science",
             "software": "Web Development",
-            "database": "Database & Events",
-            "platform": "Platform & CI/CD"
+            "management": "Team Management",
+            "platform": "Cloud Services"
         },
         "experience": {
             "thau": {
@@ -69,7 +69,7 @@
         "social": {
             "personal": {
                 "title": "PERSONAL",
-                "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae voluptatum, voluptas veniam rem asperiores natus, sit tempore iusto expedita numquam, corporis amet. Sint expedita ad reprehenderit numquam laborum nesciunt tempora tempore corrupti iusto vero. Excepturi repellat corporis animi eaque corrupti?"
+                "content": "I was born and started to undertake in Brazil shortly after my graduation. Today I live in Barcelona with my wife and two beautiful daughters. We like to go out for walks and discover new places, fly from time to time and dance forró. Whenever I can I learn something new in my laboratory at home and lately I have been engaged in swimming crossings."
             },
             "hobbies": {
                 "title": "HOBBIES",

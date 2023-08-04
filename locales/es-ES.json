@@ -20,11 +20,11 @@
         },
         "skills": {
             "title": "HABILIDADES",
-            "teamwork": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem rem sint quidem deleniti enim accusamus libero corrupti explicabo ducimus quaerat, doloribus voluptatibus quibusdam adipisci dolore in vero. Perspiciatis tempore rem delectus obcaecati eligendi, dolorem!",
+            "teamwork": "Tengo una sólida formación matemática, competencia en programación, conocimiento de bases de datos (no) relacionales, sistemas de mensajería resistentes, experiencia con contenedores y proveedores de nube populares. Disfruto del trabajo en equipo multicultural y el aprendizaje continuo.",
             "science": "Ciencia de los Datos",
             "software": "Desarrollo Web",
-            "database": "Base de Datos y Eventos",
-            "platform": "Plataforma y CI/CD"
+            "management": "Gestión de Equipos",
+            "platform": "Servicios en la Nube"
         },
         "experience": {
             "thau": {
@@ -69,7 +69,7 @@
         "social": {
             "personal": {
                 "title": "PERSONAL",
-                "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae voluptatum, voluptas veniam rem asperiores natus, sit tempore iusto expedita numquam, corporis amet. Sint expedita ad reprehenderit numquam laborum nesciunt tempora tempore corrupti iusto vero. Excepturi repellat corporis animi eaque corrupti?"
+                "content": "Nací y comencé a emprender en Brasil poco después de graduarme. Hoy vivo en Barcelona con mi mujer y dos preciosas hijas. Nos gusta salir a pasear y descubrir nuevos lugares, volar de vez en cuando y bailar forró. Siempre que puedo aprendo algo nuevo en mi laboratorio en casa y últimamente me he dedicado a las travesías a nado."
             },
             "hobbies": {
                 "title": "AFICIONES",

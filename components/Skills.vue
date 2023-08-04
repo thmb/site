@@ -14,9 +14,9 @@
                 <div class="value">
                     <div style="width:95%"></div>
                 </div>
-                <div class="label">{{ $t("component.skills.database") }}</div>
+                <div class="label">{{ $t("component.skills.management") }}</div>
                 <div class="value">
-                    <div style="width:90%"></div>
+                    <div style="width:95%"></div>
                 </div>
                 <div class="label">{{ $t("component.skills.platform") }}</div>
                 <div class="value">
