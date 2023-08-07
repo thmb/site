@@ -58,6 +58,6 @@ h4.company {
 }
 
 p.summary {
-    --at-apply: text-slate-500 text-justify text-sm md:text-base
+    --at-apply: text-slate-500 text-sm md:text-base
 }
 </style>

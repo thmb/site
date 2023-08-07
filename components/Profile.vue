@@ -8,10 +8,10 @@
                 <img class="w-full md:w-60" src="/images/thiago-2018.jpg" alt="Thiago Madureira Braga">
                 <div class="flex flex-col justify-around ml-8">
                     <div>
-                        <h3 class="font-bold text-2xl text-slate-100 mb-2">
+                        <h3 class="font-bold text-2xl text-slate-700 md:text-slate-100 mt-4 xl:mt-0">
                             {{ $t("component.profile.profession") }}
                         </h3>
-                        <div>
+                        <div class="mt-4">
                             <span class="badge language">
                                 {{ $t("component.profile.language.portuguese") }}
                             </span>
@@ -48,11 +48,11 @@
                 </div>
             </div>
 
-            <div class="h-full flex flex-col justify-around">
-                <h4 class="text-2xl text-slate-100 font-light">
+            <div class="h-full flex flex-col justify-around text-slate-700">
+                <h4 class="text-2xl font-light leading-tight xl:text-slate-100">
                     {{ $t("component.profile.focus") }}
                 </h4>
-                <p class="text-base text-slate-700 leading-snug">
+                <p class="text-base 2xl:leading-snug mt-4 xl:mt-0">
                     {{ $t("component.profile.summary") }}
                 </p>
             </div>

@@ -1,8 +1,8 @@
 <template>
     <section class="body-font bg-slate-600 text-slate-200">
-        <div class="container grid grid-cols-1 lg:grid-cols-4 gap-10 text-center md:text-left px-4 py-16 mt-10 mx-auto">
+        <div class="container grid grid-cols-1 lg:grid-cols-4 gap-10 px-4 py-16 mt-10 mx-auto">
             <!-- PERSONAL -->
-            <div class="col-span-2">
+            <div class="sm:col-span-2">
                 <h4>{{ $t("component.social.personal.title") }}</h4>
                 <p>{{ $t("component.social.personal.content") }}</p>
             </div>
