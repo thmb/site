@@ -3,7 +3,7 @@
         <div class="grid grid-cols-1 xl:grid-cols-3 gap-10">
             <div>
                 <h4 class="text-xl text-slate-700 mb-4">{{ $t("component.skills.title") }}</h4>
-                <p class="text-lg text-slate-500">{{ $t("component.skills.teamwork") }}</p>
+                <p class="text-lg text-slate-500">{{ $t("component.skills.summary") }}</p>
             </div>
             <div>
                 <div class="label">{{ $t("component.skills.science") }}</div>

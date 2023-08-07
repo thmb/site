@@ -15,12 +15,12 @@
                 "chinese": "Chino {'|'} A2"
             },
             "address": "Barcelona, Cataluña, España",
-            "focus": "Soy un aprendiz de por vida con más de 15 años de experiencia y me enfoco en ciencia de datos y desarrollo web, con especial interés en técnicas matemáticas y criptoactivos.",
+            "focus": "Soy un aprendiz con más de 15 años de experiencia en trabajo en equipo multicultural. Mi enfoque es la ciencia de datos y el desarrollo web, con especial interés en técnicas matemáticas y criptoactivos.",
             "summary": "He estado trabajando con lagos de datos, análisis, aprendizaje automático y desarrollo web/móvil, mientras interactuaba con nuevas empresas, empresas y el gobierno. Actualmente, trabajo como ingeniero de software senior en proyectos remotos en todo el mundo. Mi experiencia e intereses incluyen inteligencia artificial, análisis de big data, desarrollo de software ágil y plataformas blockchain."
         },
         "skills": {
             "title": "HABILIDADES",
-            "teamwork": "Tengo una sólida formación matemática, competencia en programación, conocimiento de bases de datos (no) relacionales, sistemas de mensajería resistentes, experiencia con contenedores y proveedores de nube populares. Disfruto del trabajo en equipo multicultural y el aprendizaje continuo.",
+            "summary": "Empatía, escucha activa y capacidad de articular ideas con claridad para fomentar la comprensión y la conexión con los demás. Tengo una sólida formación matemática, dominio de la programación, conocimiento de bases de datos (no) relacionales, sistemas de eventos, orquestación de contenedores y servicios en la nube.",
             "science": "Ciencia de los Datos",
             "software": "Desarrollo Web",
             "management": "Gestión de Equipos",

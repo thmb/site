@@ -15,12 +15,12 @@
                 "chinese": "Chinese {'|'} A2"
             },
             "address": "Barcelona, Catalonia, Spain",
-            "focus": "I am a lifelong learner with over 15+ years of experience and a focus on data science and web development, with special interest in math techniques and crypto assets.",
+            "focus": "I am a lifelong learner with over 15+ years of multicultural teamwork experience. Data science and web development are my focus, with special interest in math techniques and crypto assets.",
             "summary": "I have been working with datalakes, analytics, machine learning and web/mobile development, while interacting with startups, enterprises and governments. Currently, I am working as senior software engineer in remote projects worldwide. My expertise and interests includes artificial intelligence, big data analytics, agile software development and blockchain platforms."
         },
         "skills": {
             "title": "SKILLS",
-            "teamwork": "I have a strong mathematical background, programming proficiency, knowledge of (non) relational databases, resilient messaging systems, experience with containers and popular cloud providers. I enjoy multicultural teamwork and continuous learning.",
+            "summary": "Empathy, active listening and ability to articulate ideas clearly to foster understanding and connection with others. I have a strong mathematical background, programming proficiency, knowledge of (non) relational databases, event systems, containers orchestration and cloud services.",
             "science": "Data Science",
             "software": "Web Development",
             "management": "Team Management",
