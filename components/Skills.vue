@@ -32,33 +32,33 @@
                 <span class="badge topic experience">Java(EE)</span>
                 <span class="badge topic experience">C/C++</span>
 
-                <span class="badge topic">TensorFlow</span>
-                <span class="badge topic experience">PyTorch</span>
-                <span class="badge topic">Spark</span>
                 <span class="badge topic">Airflow</span>
                 <span class="badge topic">Airbyte</span>
                 <span class="badge topic">DBT</span>
+                <span class="badge topic">Spark</span>
+                <span class="badge topic experience">TensorFlow</span>
+                <span class="badge topic experience">PyTorch</span>
 
                 <span class="badge topic">PostgreSQL</span>
                 <span class="badge topic">MongoDB</span>
-                <span class="badge topic experience">Redis</span>
-                <span class="badge topic experience">Elastic</span>
                 <span class="badge topic">Kafka</span>
                 <span class="badge topic">Hadoop</span>
+                <span class="badge topic experience">Redis</span>
+                <span class="badge topic experience">Elastic</span>
 
-                <span class="badge topic">Vue</span>
-                <span class="badge topic experience">Superset</span>
-                <span class="badge topic">FastAPI</span>
-                <span class="badge topic experience">Terraform</span>
                 <span class="badge topic">Kubernetes</span>
-                <span class="badge topic experience">CI/CD</span>
+                <span class="badge topic">FastAPI</span>
+                <span class="badge topic">Vue</span>
+                <span class="badge topic">CI/CD</span>
+                <span class="badge topic experience">Superset</span>
+                <span class="badge topic experience">Terraform</span>
 
+                <span class="badge topic">Scrum</span>
                 <span class="badge topic">AWS</span>
                 <span class="badge topic">Google</span>
-                <span class="badge topic experience">Azure</span>
-                <span class="badge topic">CloudFlare</span>
-                <span class="badge topic">Hyperledger</span>
-                <span class="badge topic experience">Scrum</span>
+                <span class="badge topic">Azure</span>
+                <span class="badge topic experience">CloudFlare</span>
+                <span class="badge topic experience">Hyperledger</span>
             </div>
         </div>
     </section>
