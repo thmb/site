@@ -3,22 +3,18 @@
         <h4 class="text-xl text-slate-700 mb-4">{{ $t("component.skills.title") }}</h4>
         <div class="grid grid-cols-1 xl:grid-cols-3 gap-10">
             <p class="text-lg text-slate-500">{{ $t("component.skills.summary") }}</p>
-            <div>
-                <div class="label">{{ $t("component.skills.science") }}</div>
-                <div class="value">
-                    <div style="width:90%"></div>
+            <div class="flex flex-col space-y-lg">
+                <div class="label">
+                    <div class="value" style="width:90%">{{ $t("component.skills.science") }}</div>
                 </div>
-                <div class="label">{{ $t("component.skills.software") }}</div>
-                <div class="value">
-                    <div style="width:85%"></div>
+                <div class="label">
+                    <div class="value" style="width:85%">{{ $t("component.skills.software") }}</div>
                 </div>
-                <div class="label">{{ $t("component.skills.platform") }}</div>
-                <div class="value">
-                    <div style="width:70%"></div>
+                <div class="label">
+                    <div class="value" style="width:70%">{{ $t("component.skills.platform") }}</div>
                 </div>
-                <div class="label">{{ $t("component.skills.crypto") }}</div>
-                <div class="value">
-                    <div style="width:55%"></div>
+                <div class="label">
+                    <div class="value" style="width:55%">{{ $t("component.skills.crypto") }}</div>
                 </div>
             </div>
 
@@ -60,14 +56,10 @@ span.topic {
 }
 
 div.label {
-    --at-apply: mb-1 text-base font-medium dark:text-white
+    --at-apply: w-full bg-slate-200 rounded-full dark:bg-slate-700
 }
 
 div.value {
-    --at-apply: w-full bg-gray-200 rounded-full h-2 mb-4 dark:bg-gray-700
-}
-
-div.value>div {
-    --at-apply: bg-thau h-2 rounded-full dark:bg-slate-300
+    --at-apply: bg-thau text-sm font-medium text-white leading-none rounded-full px-3 py-1
 }
 </style>
