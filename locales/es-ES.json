@@ -20,9 +20,9 @@
         },
         "skills": {
             "title": "HABILIDADES",
-            "summary": "Empatía, escucha activa y capacidad de articular ideas con claridad para fomentar la comprensión y la conexión con los demás. Tengo una sólida formación matemática, dominio de la programación, conocimiento de bases de datos (no) relacionales, sistemas de eventos, orquestación de contenedores y servicios en la nube.",
+            "summary": "Conocimientos para crear y gestionar equipos comprometidos que trabajan en colaboración para lograr resultados predecibles. Tengo una sólida formación matemática, dominio de la programación, conocimiento de bases de datos (no) relacionales, sistemas de eventos, orquestación de contenedores y servicios en la nube.",
             "science": "Ciencia de los Datos",
-            "software": "Desarrollo Web",
+            "software": "Desarrollo de Software",
             "platform": "Infraestructura en la Nube",
             "crypto": "Criptoactivos"
         },
@@ -31,25 +31,25 @@
                 "position": "Ingeniero de Software (Fundador)",
                 "duration": "Dic 2017 - Presente",
                 "company": "THAU {'@'} Brasil",
-                "summary": "Imoiê: amplíe una aplicación REST construida en Python que utiliza el aprendizaje automático para predecir y reducir la deserción escolar en función de la asistencia a clases y los retrasos. [imoie.com.br] Secretaría de Educación del Estado de Minas Gerais: lideró un equipo de 7 personas programando en Java (EE), SQL Server y CI/CD para implementar una aplicación de gestión de capacidad, un sistema de inscripción en línea para 1,8 millones de estudiantes y un horario del personal de la escuela. [educacao.mg.gov.br] netLex: consultoría y capacitación para mejorar la tecnología (C/C++, Angular y MySQL) para agilizar los procesos de formalización y gestión de documentos legales que permitan extraer datos relevantes y generar inteligencia. [netlex.io]"
+                "summary": "THAU implementa tecnología basada en datos para potenciar los negocios. Los proyectos incluyen ciencia de datos, desarrollo de software, ingeniería de plataformas y capacitación/incorporación de personas. En la empresa colaboro en proyectos relevantes como: la arquitectura de un datalake, incluyendo pipelines y analytics para CMOC [en.cmoc.com] que concentra y procesa información de SAP, Salesforce y otros sistemas en la nube; Lideré un equipo de unas 10 personas para implementar un horario de personal escolar en línea y un sistema de inscripción para 1,8 millones de estudiantes del estado de Minas Gerais [educacao.mg.gov.br]; También trabajé en la arquitectura y la implementación central de una aplicación para involucrar a 400K estudiantes para el Estado de Espírito Santo [protagoniza.es.gov.br] y brindé consultoría y capacitación especializada para empresas más pequeñas a lo largo del tiempo."
             },
             "una": {
                 "position": "Profesor y Asistente de Contenido del Programa",
                 "duration": "Ene 2015 - Dic 2017",
                 "company": "Una {'@'} Brasil",
-                "summary": "Curso de Procesos de Control Industrial utilizando Python y MATLAB para modelar sensores y actuadores y ajustar controladores PID. Curso de Procesadores y Sistemas Periféricos explorando arquitecturas x86 y ARM y también dispositivos Arduino con sus módulos. Curso de Redes de Automatización Industrial y temas en programación científica con Python y conjuntos de datos de series temporales."
+                "summary": "Como docente universitario dicté cursos relacionados con la ingeniería de control e informática, como el curso de Control de Procesos Industriales (modelado de sensores, actuadores y sintonización de controladores PID); curso de Procesadores y Sistemas Periféricos (arquitecturas x86, dispositivos ARM y Arduino); curso de Redes de Automatización Industrial y también algunos temas de programación científica usando series de tiempo. Como asistente de contenido, participé en la comisión que creó el nuevo modelo disciplinario de la universidad, contemplando un plan de estudios más moderno y atractivo."
             },
             "linksaude": {
                 "position": "Ingeniero de Software (Cofundador)",
                 "duration": "Sep 2011 - Dic 2017",
                 "company": "LinkSaúde {'@'} Brasil",
-                "summary": "Aplicación de información clínica en línea creada con Angular, NestJS y MongoDB mediante rutinas asíncronas/en espera e integraciones de AWS. Versión inicial creada usando Cassandra en un clúster de GCP como base de datos con migración posterior a MongoDB usando Apache Airflow."
+                "summary": "Junto con otros amigos ingenieros, fundamos una startup con el objetivo de construir una plataforma de información clínica en línea que facilitara el intercambio de datos entre profesionales y permitiera utilizar la ciencia de datos para resolver desafíos en el área. La primera versión usaba tecnologías más tradicionales en ese momento, pero pronto experimentamos con la base de datos Cassandra con la posterior migración a MongoDB y NodeJS. Conquistamos algunos clientes pagos pero descubrimos un mercado muy conservador, con un ticket bajo y una legislación compleja. Sin una diversidad de conocimientos, principalmente en marketing y ventas, para superar estos desafíos, descontinuamos el proyecto después de algunos años."
             },
             "ats": {
                 "position": "Ingeniero de Software (Full Stack)",
                 "duration": "Dic 2007 - Ago 2011",
                 "company": "Acute Technological Services {'@'} USA",
-                "summary": "Diseño e implementación usando Spring y PostgreSQL de una hoja de tiempo de personal en línea para campos industriales continuos. Diseño, desarrollo y operación de un sistema de datos de soldadura para gestionar la construcción de un gasoducto que interconectara los estados de Texas, Oklahoma y Kansas."
+                "summary": "Me uní a ATS en un momento vibrante de crecimiento de la empresa con nuevos desafíos. Los principales proyectos sirvieron a empresas de petróleo y gas y tuve la oportunidad de diseñar, implementar y operar durante algún tiempo una hoja de tiempo de empleados en línea para sitios de operación continua. Además, desarrollé la arquitectura y funcionalidades principales de un sistema de datos de soldadura que gestionó la construcción de un gasoducto que hoy conecta los estados de Texas, Oklahoma y Kansas. Además, recuerdo con alegría ver el proceso de soldadura del brazo del transbordador espacial de la NASA, estando en Houston... y no tuvimos ningún problema ;)"
             }
         },
         "education": {
@@ -57,13 +57,13 @@
                 "course": "Máster en Ingeniería Eléctrica",
                 "duration": "Ene 2009 - Ago 2011",
                 "school": "Universidad Federal de Río de Janeiro {'@'} Brasil",
-                "summary": "Tesis “A Text Mining Tool in University Hospital Databases Using Matrix Decompositions” con resumen disponible en: http://pee.ufrj.br/teses/index.php?Abstract=2011082401 Curso sobre redes neuronales y algoritmos de aprendizaje automático. Curso de álgebra lineal y descomposición de matrices (escasas). Curso sobre análisis de componentes principales y compresión de datos."
+                "summary": "Mi curso fue guiado por la mejora de mis conocimientos matemáticos y técnicas de computación. Durante aproximadamente dos años tomé cursos de álgebra lineal y descomposición de matrices (dispersas), análisis de componentes principales, compresión de datos (por reducción dimensional) y redes neuronales con algoritmos de aprendizaje automático, además de las disciplinas de ingeniería obligatorias. Defendí mi disertación con el título “A Text Mining Tool in University Hospital Databases Using Matrix Decompositions”, con éxito. El resumen está disponible en [http://pee.ufrj.br/teses/index .php?Abstract=2011082401]."
             },
             "ufmg": {
                 "course": "Graduado en Ingeniería de Controles y Automatización",
                 "duration": "Ene 2001 - Dic 2005",
                 "school": "Universidad Federal de Minas Gerais {'@'} Brasil",
-                "summary": "Proyecto “Desarrollo de Redes de Instrumentación Distribuida Utilizando Red de Área de Controlador” como trabajo de conclusión. Curso de corta duración en control estadístico de procesos. Experiencia en prácticas con sistemas operativos en tiempo real."
+                "summary": "Mi carrera está compuesta por dos áreas de conocimiento complementarias: el control de procesos y la automatización industrial. A pesar de apreciar los dispositivos de automatización, siempre me han interesado más las teorías matemáticas y computacionales de modelado y control. Consolidé mejor este conocimiento a través de asignaturas optativas y buenas experiencias prácticas como pasante en el laboratorio de modelado y también en empresas privadas. Para completar el curso, diseñé e implementé un trabajo práctico con el título: “Desarrollo de Redes de Instrumentación Distribuida Utilizando Red de Área de Controlador”."
             }
         },
         "social": {
