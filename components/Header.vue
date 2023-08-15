@@ -13,6 +13,13 @@
             </div>
 
             <div class="flex items-center lg:order-2">
+                <!-- COLOR -->
+                <select v-model="$colorMode.preference">
+                    <option value="system">System</option>
+                    <option value="light">Light</option>
+                    <option value="dark">Dark</option>
+                </select>
+                <!-- LOCALE -->
                 <select @change="localize" :value="locale">
                     <option v-for="{ code, name } in (locales as LocaleObject[])" :key="code" :value="code">
                         {{ name }}

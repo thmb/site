@@ -2,7 +2,11 @@
 export default defineNuxtConfig({
     devtools: { enabled: true },
     css: ["@unocss/reset/tailwind.css"],
-    modules: ["@nuxtjs/i18n", "@unocss/nuxt", "@vueuse/nuxt"],
+    modules: ["@nuxtjs/i18n", "@nuxtjs/color-mode", "@unocss/nuxt", "@vueuse/nuxt"],
+
+    colorMode: {
+        classSuffix: ''
+    },
 
     i18n: {
         locales: [

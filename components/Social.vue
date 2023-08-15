@@ -19,15 +19,15 @@
             <!-- NETWORKS -->
             <div class="grid lg:justify-end">
                 <h4>{{ $t("component.social.networks") }}</h4>
-                <nav class="list-none">
-                    <li class="mb-2">
-                        <a href="https://www.linkedin.com/in/thmb" target="_blank">
-                            <i class="i-mdi-linkedin"></i> <span>linkedin.com/in/thmb</span>
-                        </a>
-                    </li>
-                    <li class="mb-2">
+                <ul class="list-none flex flex-col space-y-2">
+                    <li>
                         <a href="https://github.com/thmb" target="_blank">
                             <i class="i-mdi-github"></i> <span>github.com/thmb</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/thmb" target="_blank">
+                            <i class="i-mdi-linkedin"></i> <span>linkedin.com/in/thmb</span>
                         </a>
                     </li>
                     <li>
@@ -35,7 +35,7 @@
                             <i class="i-mdi-mastodon"></i> <span>mastodon.social/@thmb</span>
                         </a>
                     </li>
-                </nav>
+                </ul>
             </div>
 
         </div>
