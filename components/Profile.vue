@@ -52,7 +52,7 @@
                 <h4 class="text-2xl font-light leading-tight xl:text-slate-100">
                     {{ $t("component.profile.focus") }}
                 </h4>
-                <p class="text-base 2xl:leading-snug mt-4 xl:mt-0">
+                <p class="text-base dark:text-slate-300 2xl:leading-snug mt-4 xl:mt-0">
                     {{ $t("component.profile.summary") }}
                 </p>
             </div>
@@ -62,7 +62,7 @@
 
 <style scoped>
 a {
-    --at-apply: text-lg text-slate-700 hover:text-slate-900 cursor-pointer
+    --at-apply: text-lg text-slate-700 hover:text-black dark:text-slate-300 dark:hover:text-white cursor-pointer
 }
 
 a>i {
@@ -74,6 +74,6 @@ a>span {
 }
 
 span.language {
-    --at-apply: mr-2 mb-2
+    --at-apply: xl:bg-slate-300 xl:text-slate-700 mr-2 mb-2
 }
 </style>

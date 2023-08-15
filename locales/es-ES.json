@@ -27,6 +27,7 @@
             "crypto": "Criptoactivos"
         },
         "experience": {
+            "title": "EXPERIENCIA",
             "thau": {
                 "position": "Ingeniero de Software (Fundador)",
                 "duration": "Dic 2017 - Presente",
@@ -53,6 +54,7 @@
             }
         },
         "education": {
+            "title": "EDUCACIÓN",
             "ufrj": {
                 "course": "Máster en Ingeniería Eléctrica",
                 "duration": "Ene 2009 - Ago 2011",

@@ -27,6 +27,7 @@
             "crypto": "Crypto Assets"
         },
         "experience": {
+            "title": "EXPERIENCE",
             "thau": {
                 "position": "Software Engineer (Founder)",
                 "duration": "Dec 2017 - Present",
@@ -53,6 +54,7 @@
             }
         },
         "education": {
+            "title": "EDUCATION",
             "ufrj": {
                 "course": "Master in Electrical Engineering",
                 "duration": "Jan 2009 - Aug 2011",

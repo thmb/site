@@ -1,6 +1,8 @@
 <template>
     <section class="container px-4 mt-10 mx-auto">
-        <h3 class="text-xl text-slate-700 mb-4">EXPERIENCE</h3>
+        <h3 class="text-xl text-slate-700 dark:text-slate-100 mb-4">
+            {{ $t("component.experience.title") }}
+        </h3>
         <div class="experience">
             <div>
                 <h4 class="position">{{ $t("component.experience.thau.position") }}</h4>
@@ -46,15 +48,15 @@ div.experience>div {
 }
 
 h4.position {
-    --at-apply: text-thau font-bold
+    --at-apply: font-bold text-thau dark:text-blue-500
 }
 
 h4.duration {
-    --at-apply: text-slate-700 font-light ml-0 lg:ml-4 order-first lg:order-none
+    --at-apply: font-light text-slate-500 dark:text-slate-300 ml-0 lg:ml-4 order-first lg:order-none
 }
 
 h4.company {
-    --at-apply: text-slate-700 ml-0 lg:ml-auto
+    --at-apply: text-slate-700 dark:text-slate-100 ml-0 lg:ml-auto
 }
 
 p.summary {

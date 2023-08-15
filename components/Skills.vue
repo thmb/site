@@ -56,7 +56,7 @@ span.topic {
 }
 
 div.label {
-    --at-apply: w-full bg-slate-200 rounded-full dark:bg-slate-700
+    --at-apply: w-full rounded-full bg-slate-300 dark:bg-slate-500
 }
 
 div.value {

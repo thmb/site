@@ -1,6 +1,8 @@
 <template>
     <section class="container px-4 mt-10 mx-auto">
-        <h3 class="text-xl text-slate-700 mb-2">EDUCATION</h3>
+        <h3 class="text-xl text-slate-700 dark:text-slate-100 mb-2">
+            {{ $t("component.education.title") }}
+        </h3>
         <div class="education">
             <div>
                 <h4 class="course">{{ $t("component.education.ufrj.course") }}</h4>
@@ -30,15 +32,15 @@ div.education>div {
 }
 
 h4.course {
-    --at-apply: text-thau font-bold
+    --at-apply: font-bold text-thau dark:text-blue-500
 }
 
 h4.duration {
-    --at-apply: text-slate-700 font-light ml-0 lg:ml-4 order-first lg:order-none
+    --at-apply: font-light text-slate-500 dark:text-slate-300 ml-0 lg:ml-4 order-first lg:order-none
 }
 
 h4.school {
-    --at-apply: text-slate-700 ml-0 lg:ml-auto
+    --at-apply: text-slate-700 dark:text-slate-100 ml-0 lg:ml-auto
 }
 
 p.summary {
