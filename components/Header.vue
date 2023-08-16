@@ -13,18 +13,8 @@
             </div>
 
             <div class="flex items-center lg:order-2">
-                <!-- COLOR -->
-                <select v-model="$colorMode.preference">
-                    <option value="system">System</option>
-                    <option value="light">Light</option>
-                    <option value="dark">Dark</option>
-                </select>
-                <!-- LOCALE -->
-                <select @change="localize" :value="locale">
-                    <option v-for="{ code, name } in (locales as LocaleObject[])" :key="code" :value="code">
-                        {{ name }}
-                    </option>
-                </select>
+                <ColorMode/>
+                <LocaleMenu/>
             </div>
 
             <div class="items-center w-full lg:flex lg:w-auto lg:order-1" :class="menu ? 'flex' : 'hidden'">
@@ -60,25 +50,11 @@ ul {
 li {
     --at-apply: text-base text-slate-300 font-bold xl:text-lg hover:text-slate-100
 }
-
-select {
-    --at-apply: bg-transparent text-lg text-slate-300 hover:text-slate-100
-}
 </style>
 
 <script setup lang="ts">
 import { ref } from "vue";
-import { LocaleObject } from '@nuxtjs/i18n/dist/runtime/composables';
-
-const { locale, locales } = useI18n()
-const switchLocalePath = useSwitchLocalePath()
 const localePath = useLocalePath()
-const router = useRouter()
-
-function localize(event: Event) {
-    const target = event.target as HTMLInputElement
-    router.push({ path: switchLocalePath(target.value) })
-}
 
 let menu = ref(false);
 const toggle = () => (menu.value = !menu.value);

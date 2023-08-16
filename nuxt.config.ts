@@ -18,6 +18,13 @@ export default defineNuxtConfig({
         detectBrowserLanguage: false,
     },
 
+    // components: [
+    //     {
+    //         path: '~/components',
+    //         pathPrefix: false,
+    //     },
+    // ],
+
     // vite: {
     //     vue: {
     //         template: {
