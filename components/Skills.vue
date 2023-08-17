@@ -2,7 +2,6 @@
     <section class="container px-4 mx-auto mt-10">
         <h4 class="text-xl text-slate-700 dark:text-slate-100 mb-4">{{ $t("component.skills.title") }}</h4>
         <div class="grid grid-cols-1 xl:grid-cols-3 gap-10">
-            <p class="text-lg text-slate-500 dark:text-slate-300">{{ $t("component.skills.summary") }}</p>
             <div class="flex flex-col space-y-lg">
                 <div class="label">
                     <div class="value" style="width:90%">{{ $t("component.skills.science") }}</div>
@@ -16,6 +15,12 @@
                 <div class="label">
                     <div class="value" style="width:55%">{{ $t("component.skills.crypto") }}</div>
                 </div>
+            </div>
+
+            <div>
+                <p class="text-lg text-slate-500 dark:text-slate-300">
+                    {{ $t("component.skills.summary") }}
+                </p>
             </div>
 
             <div>
