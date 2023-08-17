@@ -44,7 +44,7 @@
                 "position": "Software Engineer (Co-Founder)",
                 "duration": "Sep 2011 - Dec 2017",
                 "company": "LinkSaúde {'@'} Brazil",
-                "summary": "Together with other engineering friends, we founded a startup with the aim of building an online clinical information platform that would facilitate the sharing of data between professionals and make it possible to use data science to solve challenges in the area. Despite the MVP used traditional technologies, soon we experimented Cassandra database then MongoDB and NodeJS. We conquered some paid customers and found a very conservative market, with a low ticket and complex legislation. Without knowledge diversity, mainly in marketing and sales, to overcome these challenges, we discontinued the project after a few years."
+                "summary": "Together with other engineering friends, we founded a startup with the aim of building an online clinical information platform that would facilitate the sharing of data between professionals and make it possible to use data science to solve challenges in the area. Despite the MVP used traditional technologies, soon we experimented Cassandra database then MongoDB and NodeJS. We conquered some paid customers and found a very conservative market, with a low ticket and complex legislation. Without knowledge diversity, mainly in marketing and sales, to overcome these challenges, we discontinued the project some years later."
             },
             "ats": {
                 "position": "Software Engineer (Full Stack)",
@@ -65,7 +65,7 @@
                 "course": "Graduation in Controls And Automation Engineering",
                 "duration": "Jan 2001 - Dec 2005",
                 "school": "Federal University of Minas Gerais {'@'} Brazil",
-                "summary": "My degree is composed of two complementary areas of knowledge: process control and industrial automation. Despite appreciating automation devices, I have always been more interested in mathematical and computational theories of modeling and control. I consolidated this knowledge better through elective subjects and good practical experiences as an intern in the modeling laboratory and also in private companies. To complete the course, I designed and implemented a practical work with title: “Distributed Instrumentation Network Development Using Controller Area Network”."
+                "summary": "The degree is composed of two complementary areas of knowledge: process control and industrial automation. Despite appreciating automation devices, I have always been more interested in mathematical and computational theories of modeling and control. I consolidated this knowledge better through elective subjects and good practical experiences as an intern in the modeling laboratory and also in private companies. To complete the course, I designed and implemented a practical work with title: “Distributed Instrumentation Network Development Using Controller Area Network”."
             }
         },
         "social": {
