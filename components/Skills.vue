@@ -24,12 +24,12 @@
             </div>
 
             <div>
-                <span class="badge topic">Python</span>
                 <span class="badge topic">SQL</span>
+                <span class="badge topic">Python</span>
                 <span class="badge topic">TypeScript</span>
-                <span class="badge topic">HTML/CSS</span>
                 <span class="badge topic">Java(EE)</span>
                 <span class="badge topic">C/C++</span>
+                <span class="badge topic">HTML/CSS</span>
                 <span class="badge topic">TensorFlow</span>
                 <span class="badge topic">Scikit-Learn</span>
                 <span class="badge topic">Spark</span>
