@@ -57,7 +57,7 @@
 
 <style scoped>
 span.topic {
-    --at-apply: mr-2 mb-3
+    --at-apply: mr-1 mb-3
 }
 
 div.label {
