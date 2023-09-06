@@ -42,8 +42,8 @@
                 <span class="badge topic">Superset</span>
                 <span class="badge topic">PostgreSQL</span>
                 <span class="badge topic">MongoDB</span>
-                <span class="badge topic">Elastic</span>
                 <span class="badge topic">Kubernetes</span>
+                <span class="badge topic">Prometheus</span>
                 <span class="badge topic">Terraform</span>
                 <span class="badge topic">AWS</span>
                 <span class="badge topic">Google</span>

@@ -1,5 +1,4 @@
 <template>
-
 <button @click="toggle">
     <!-- material-symbols:light-mode-outline-sharp -->
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" v-if="$colorMode.preference != 'dark'">
@@ -16,6 +15,6 @@
 const currentColor = "white";
 const colorMode = useColorMode();
 const toggle = () => {
-    colorMode.preference = (colorMode.preference == "dark") ? "light" : "dark"
+    colorMode.preference = (colorMode.preference == "dark") ? "light" : "dark";
 };
 </script>
