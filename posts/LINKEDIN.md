@@ -149,3 +149,7 @@ Before publishing, confirm each item:
 - [ ] 3–5 relevant hashtags placed at the end
 - [ ] Closing question invites thoughtful discussion
 - [ ] Tone is human, confident, and not corporate
+
+Tips (ask an AI tool for):
+- Honest review score (e.g., 0–10 readiness)
+- Any suggestion to improve the content
